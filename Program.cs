@@ -34,7 +34,7 @@
         }
         static void Main()
         {
-            Console.WriteLine(CheckTriangle(3, 4, 5, 1));
+            Consolee.WriteLine(CheckTriangle(3, 4, 5, 1));
             Console.WriteLine(CheckTriangle(1, 2, 3, 0));
         }
     }
