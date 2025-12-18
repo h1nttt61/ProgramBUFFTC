@@ -1,8 +1,0 @@
-.vs/
-.idea/
-*.user
-*.suo
-*.cache
-.DS_Store
-*.nupkg
-packages/
